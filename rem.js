@@ -1,6 +1,3 @@
-# rem.js
-支持横竖屏切换达到移动端各种终端适配的目的
-
 (function (doc, win) {
   //orientationchange : 判断手机是水平方向还是垂直方向，感应方向
 
